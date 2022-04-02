@@ -1,0 +1,33 @@
+*{
+    /*se resetean los voleres de la pagina*/
+    padding: 0px;
+    margin: 0px;
+}
+#Carrusel1,
+#Carrusel2,
+#Carrusel3{
+    width: 40%;
+    height: 20vw;
+}
+#carouselExampleDark{
+    width: 30%;
+    margin: 0% auto;
+}
+
+body {
+    background-color: grey;
+    background-image: url('../img/1-16230_dark-grey-wallpaper-22-imagenes-de-fondo-gris.jpg');
+    background-attachment:fixed;
+    font-family: Verdana, sans-serif;
+}
+
+#img1,#img2,#img3{
+    width: 15vw;
+    float: left;
+    height: 15vw;
+    border: 1px solid black;
+}
+
+#img2{
+    
+}

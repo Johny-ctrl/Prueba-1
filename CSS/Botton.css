@@ -1,0 +1,6 @@
+body{
+    background: url(../img/bandana.jpg);
+    background-attachment: fixed;
+    background-repeat: repeat;
+    font-family: Verdana, sans-serif;
+}
