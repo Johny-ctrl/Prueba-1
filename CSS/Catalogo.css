@@ -1,0 +1,29 @@
+*{
+    /*se resetean los voleres de la pagina*/
+    padding: 0px;
+    margin: 0px;
+}
+#cabeza{
+    background:red;
+}
+ul li{
+    float: left;
+    margin: 10px;
+    list-style: none;
+}
+.clearfix{
+    clear: both;
+}
+#img1{
+    width: 15vw;
+    height: 10vw;
+}
+article{
+    width: 18vw;
+    height: 18vw;
+    box-sizing: border-box ;
+    text-align: center;
+    border: 3px solid black;
+    border-width: 5px;
+    border-radius: 15%;
+}

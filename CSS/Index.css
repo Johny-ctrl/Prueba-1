@@ -23,8 +23,13 @@ body {
 
 #img1,#img2,#img3{
     width: 15vw;
-    float: left;
     height: 15vw;
-    border: 1px solid black;
+    
+}
+ul{
+    list-style: none;
+    margin: 25px;
+   
+
 }
 
